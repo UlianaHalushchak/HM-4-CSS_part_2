@@ -1,0 +1,155 @@
+body {
+    background-color: #b8b8b8;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+
+#content {
+    width: 800px;
+    height: 700px;
+    padding: 20px 30px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+    color: #333;
+    font-weight: normal;
+    margin: 30px 0 30px 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: normal;
+    font-style: italic;
+    margin: 40px 0 20px 0;
+}
+#content .fixed {
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    background-color: #666;
+    color: #fff;
+}
+
+#content #puzzle {
+    position: relative;
+    border: 5px solid #333;
+    margin: 0 auto;
+    height: 461px;
+    width: 615px;
+    background-image: url("img/v9/v9-watercolor.jpg");
+    background-repeat: no-repeat;
+}
+
+#puzzle > img {
+    position: absolute;
+}
+
+#puzzle #img1 {
+    top: 0px;
+    left: 0px;
+}
+
+#puzzle #img2 {
+    top: 0px;
+    left: 120px;
+}
+
+#puzzle #img3 {
+    top: 0px;
+    left: 205px;
+}
+
+#puzzle #img4 {
+    top: 0px;
+    left: 376px;
+}
+
+#puzzle #img5 {
+    top: 0px;
+    left: 454px;
+}
+
+#puzzle #img6 {
+    top: 75px;
+    left: 0px;
+}
+
+#puzzle #img7 {
+    top: 109px;
+    left: 87px;
+}
+
+#puzzle #img8 {
+    top: 81px;
+    left: 238px;
+}
+
+#puzzle #img9 {
+    top: 121px;
+    left: 335px;
+}
+
+#puzzle #img10 {
+    top: 83px;
+    left: 488px;
+}
+
+#puzzle #img11 {
+    top: 232px;
+    left: 0px;
+}
+
+#puzzle #img12 {
+    top: 193px;
+    left: 121px;
+}
+
+#puzzle #img13 {
+    top: 227px;
+    left: 205px;
+}
+
+#puzzle #img14 {
+    top: 192px;
+    left: 367px;
+}
+
+#puzzle #img15 {
+    top: 210px;
+    left: 530px;
+}
+
+#puzzle #img16 {
+    top: 305px;
+    left: 0px;
+}
+
+#puzzle #img17 {
+    top: 340px;
+    left: 87px;
+}
+
+#puzzle #img18 {
+    top: 315px;
+    left: 243px;
+}
+
+#puzzle #img19 {
+    top: 400px;
+    left: 352px;
+}
+
+#puzzle #img20 {
+    top: 390px;
+    left: 575px;
+}
